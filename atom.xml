@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Osmaniye Korsan Taksi | Çukurova Havalimanı ve Karatepe</title>
+  <link href="https://osmaniyekorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://osmaniyekorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://osmaniyekorsantaksi.github.io/</id>
+  <updated>2026-11-19T19:16:53.005Z</updated>
+  <author><name>Osmaniye Korsan Taksi</name></author>
+  <entry>
+    <title>Osmaniye Korsan Taksi | Çukurova Havalimanı ve Karatepe</title>
+    <link href="https://osmaniyekorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://osmaniyekorsantaksi.github.io/</id>
+    <updated>2026-11-19T19:16:53.005Z</updated>
+    <summary>Osmaniye korsan taksi hattı: Adana Çukurova Havalimanı merkezden 129 km, Karatepe-Aslantaş, Kastabala, Zorkun Yaylası, Kadirli, Düziçi ve Bahçe yolu. 7/24.</summary>
+  </entry>
+</feed>
